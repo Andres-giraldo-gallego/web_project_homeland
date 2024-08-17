@@ -12,7 +12,7 @@
   line-height: 58px;
   text-align: left;
 }
-.intro__Text__title {
+.intro__Texttitle {
   max-width: 738px;
   width: 100%;
   font-size: 25px;
@@ -20,7 +20,7 @@
   line-height: 34px;
   text-align: left;
 }
-.intro__Text__title2 {
+.intro__Texttitle2 {
   max-width: 732px;
   width: 100%;
   font-size: 24px;
@@ -49,19 +49,19 @@
     line-height: 49px;
     margin: 0 auto 50px;
   }
-  .intro__Text__title {
+  .intro__Texttitle {
     max-width: 720px;
     font-size: 24px;
     line-height: 34px;
     margin: 0 auto 26px;
   }
-  .intro__Text__title2 {
+  .intro__Texttitle2 {
     max-width: 720px;
     font-size: 24px;
     line-height: 34px;
     margin: 0 auto 32px;
   }
-  .intro__Text__title3 {
+  .intro__Texttitle3 {
     max-width: 720px;
     font-size: 17px;
     line-height: 26px;
@@ -80,19 +80,19 @@
     line-height: 35px;
     margin: 0 auto 40px;
   }
-  .intro__Text__title {
+  .intro__Texttitle {
     max-width: 288px;
     font-size: 25px;
     line-height: 30px;
     margin: 0 auto 10px;
   }
-  .intro__Text__title2 {
+  .intro__Texttitle2 {
     max-width: 288px;
     font-size: 24px;
     line-height: 34px;
     margin: 0 auto 32px;
   }
-  .intro__Text__title3 {
+  .intro__Texttitle3 {
     max-width: 288px;
     font-size: 17px;
     line-height: 26px;

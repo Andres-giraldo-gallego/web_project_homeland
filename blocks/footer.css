@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
 }
-.footer____copyright {
+.footer__copyright {
   max-width: 250px;
   width: 100%;
   font-size: 14px;
@@ -10,7 +10,7 @@
   line-height: 16px;
 }
 @media (min-width: 321px) and (max-width: 768px) {
-  .footer____copyright {
+  .footer__copyright {
     max-width: 240px;
     font-size: 14px;
     line-height: 16px;
@@ -18,7 +18,7 @@
   }
 }
 @media (max-width: 320px) {
-  .footer____copyright {
+  .footer__copyright {
     max-width: 230px;
     font-size: 14px;
     line-height: 14px;
