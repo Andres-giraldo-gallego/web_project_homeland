@@ -29,10 +29,10 @@
   text-align: right;
   margin-bottom: 32px;
 }
-.intro__Text__title3 {
+.intro__Texttitle3 {
   max-width: 722px;
   width: 100%;
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 27px;
   text-align: left;
@@ -94,7 +94,7 @@
   }
   .intro__Texttitle3 {
     max-width: 288px;
-    font-size: 17px;
+    font-size: 16px;
     line-height: 26px;
     margin: 0 auto 64px;
   }
